@@ -1,0 +1,202 @@
+#mi_imagen{
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+
+#mi_nombre{
+    position: absolute;
+    top: 30px;
+    left: 80px;
+    text-align: center;
+}
+
+#medicina-ux{
+    position: absolute;
+    top: 80px;
+    left: 150px;
+}
+
+#experiencia{
+    font-family: 'Sofia Sans', sans-serif; 
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    color:black;
+    text-align: center;
+    position: absolute;
+    top: 240px;
+    left: 450px;
+}
+
+#experiencia2{
+    position: absolute;
+    top: 300px;
+    left: 340px;
+    
+}
+
+#experiencia3{
+    position: absolute;
+    top: 400px;
+    left: 340px;
+    
+}
+
+#experiencia4{
+    position: absolute;
+    top: 500px;
+    left: 340px;
+    
+}
+
+#experiencia5{
+    position: absolute;
+    top: 600px;
+    left: 340px;
+    
+}
+
+#experiencia6{
+    position: absolute;
+    top: 700px;
+    left: 340px;
+    
+}
+
+.container{
+    position: relative;
+    background-color: #A3607E;
+    width: 250px;
+    height: 1000px;
+    padding: 5px;
+    margin: 5px;
+   
+}
+
+.container2{
+    position: absolute;
+    background-color: #856A82;
+    width: 500px;
+    height: 170px;
+    padding: 5px;
+    margin: px;
+    top: 8px;
+    left: 273px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0,'wght' 300,'GRAD' 40,'opsz' 20;
+  position: absolute;
+  width: 500px;
+    height: 170px;
+    padding: 5px;
+    margin: 0px;
+    top: 470px;
+    left: 30px;
+    color: white;
+}
+
+#datos_personales {
+    font-family: 'Sofia Sans', sans-serif; 
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#itemdatospersonales{
+    color: white;
+    position: relative;
+    left: -15px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-weight: bold;
+    top: 70px
+}
+
+#contacto {
+    font-family: 'Sofia Sans', sans-serif; 
+    font-size: xx-large;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+#itemcontacto{
+    color: white;
+    position: relative;
+    left: -15px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-weight: bold;
+    top: 120px
+}
+
+#conocimientos {
+    font-family: 'Sofia Sans', sans-serif; 
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+#itemconocimientos{
+    color: white;
+    position: relative;
+    left: -15px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-weight: bold;
+    top: 220px
+}
+
+
+#mi_nombre{
+    font-family: 'Sofia Sans', sans-serif; 
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+#medicina-ux{
+    font-family: 'Sofia Sans', sans-serif; 
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    left: 140px;
+}
+
+#boton{
+    position: absolute;
+    left: 580px;
+}
+
+#misexperiencias{
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
